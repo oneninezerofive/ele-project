@@ -11,7 +11,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 export default {
   name: "app",
   data() {
-    name: "cba"
+    name: "cba",
   },
   components: {
     HelloWorld
