@@ -10,6 +10,9 @@ import HelloWorld from './components/HelloWorld.vue'
 
 export default {
   name: 'app',
+  data(){
+    name: 'yao'
+  },
   components: {
     HelloWorld
   }
